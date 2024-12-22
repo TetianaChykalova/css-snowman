@@ -1,0 +1,13 @@
+:root {
+  /* general colors */
+  --bg-color: #99CDFF;
+  --bg-shadow: #89B9E8;
+  --general-color: #FFFFFF;
+
+  /* snowman colors */
+  --snow-shadow: #E8E6E7;
+  --accent-color: #CB0202;
+  --contrast-color: #0B830B;
+  --secondary-color: #554842;
+  --nose-color: #FF921E;
+}
